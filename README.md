@@ -3,6 +3,8 @@
 [![Windows](https://img.shields.io/badge/Windows-CMD-blue?logo=windows)](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+**SAMER SAEID** — [Made by ♥️](https://bio.link/samer)
+
 ## 📖 Description
 A **comprehensive reference** for Windows Command Prompt (CMD) commands — from basic navigation and file management to advanced networking, disk utilities, and batch scripting. Perfect for IT professionals, developers, and power users who want to master the Windows command line.
 
@@ -139,5 +141,3 @@ copy hello.txt hello_copy.txt :: Copy file
 del hello_copy.txt :: Delete copy
 cd ..           :: Go back to parent
 rmdir MyProject :: Remove folder (must be empty)
-
-**SAMER SAEID** — [Made by ♥️](https://bio.link/samer)
