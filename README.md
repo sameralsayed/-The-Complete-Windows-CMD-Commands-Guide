@@ -3,7 +3,7 @@
 [![Windows](https://img.shields.io/badge/Windows-CMD-blue?logo=windows)](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[![Made by SAMER SAEID - Follow me ♥️](https://img.shields.io/badge/Made%20by-%E2%99%A5%EF%B8%8F-red)](https://bio.link/samer)
+[![Made by SAMER SAEID Follow me ♥️](https://img.shields.io/badge/Made%20by-%E2%99%A5%EF%B8%8F-red)](https://bio.link/samer)
 
 ## 📖 Description
 A **comprehensive reference** for Windows Command Prompt (CMD) commands — from basic navigation and file management to advanced networking, disk utilities, and batch scripting. Perfect for IT professionals, developers, and power users who want to master the Windows command line.
